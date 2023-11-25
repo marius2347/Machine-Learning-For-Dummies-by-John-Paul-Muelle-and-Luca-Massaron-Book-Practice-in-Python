@@ -1,4 +1,4 @@
-<h1> Machine Learning for Dummies Book Practice - Python Project</h1>
+<h1> Machine Learning Book Practice - Python Project</h1>
 <br>
 <h2>Features</h2>
 <ul>
@@ -8,6 +8,7 @@
                     <li>Chapter 5: Beyond Basic Coding in Python</li>
         </ul>
     </li>
+    <br>
     <li>Part 3: Getting Started with the Math Basics
         <ul>
                     <li>Chapter 6: Demystifying the Math Behind Machine Learning</li>
@@ -23,6 +24,7 @@
 
 <h2>Book</h2>
 <b> Auhtors: John Paul Mueller & Luca Massaron <b>
+<br>
 <b> Read the book: https://bit.ly/machine-learning-for-dummies <b>
 <br>
 
