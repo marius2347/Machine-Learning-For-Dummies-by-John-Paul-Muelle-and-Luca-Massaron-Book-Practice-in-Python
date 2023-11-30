@@ -12,6 +12,7 @@
     <li>Part 3: Getting Started with the Math Basics
         <ul>
                     <li>Chapter 6: Demystifying the Math Behind Machine Learning</li>
+                    <li>Chapter 9: Validating Machine Learning</li>
         </ul>
     </li>
 </ul>
