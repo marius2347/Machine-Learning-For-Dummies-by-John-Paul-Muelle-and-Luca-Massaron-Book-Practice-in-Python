@@ -31,7 +31,7 @@
 
 
 <h2>Photo</h2>
-<img src="image2.png">
+<img src="image.png">
 <br>
 
 
