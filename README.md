@@ -13,6 +13,7 @@
         <ul>
                     <li>Chapter 6: Demystifying the Math Behind Machine Learning</li>
                     <li>Chapter 9: Validating Machine Learning</li>
+                    <li> Chapter 10: Starting with Simple Learners</li>
         </ul>
     </li>
 </ul>
