@@ -16,6 +16,11 @@
                     <li> Chapter 10: Starting with Simple Learners</li>
         </ul>
     </li>
+    <li>Part 4: Learning from Smart and Big Data
+        <ul>
+                    <li>Chapter 11: Preprocessing Data</li>
+        </ul>
+    </li>
 </ul>
 
 
