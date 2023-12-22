@@ -20,6 +20,7 @@
         <ul>
                     <li>Chapter 11: Preprocessing Data</li>
                     <li>Chapter 12: Leveraging Similarity</li>
+                    <li>Chapter 13: Working with Linear Models the Easy Way</li>
         </ul>
     </li>
 </ul>
