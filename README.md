@@ -21,6 +21,7 @@
                     <li>Chapter 11: Preprocessing Data</li>
                     <li>Chapter 12: Leveraging Similarity</li>
                     <li>Chapter 13: Working with Linear Models the Easy Way</li>
+                    <li>Chapter 14: Hitting Complexity with Neural Networks</li>
         </ul>
     </li>
 </ul>
