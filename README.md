@@ -22,6 +22,7 @@
                     <li>Chapter 12: Leveraging Similarity</li>
                     <li>Chapter 13: Working with Linear Models the Easy Way</li>
                     <li>Chapter 14: Hitting Complexity with Neural Networks</li>
+                    <li>Chapter 15: Going a Step Beyond Using Support Vector Machines</li>
         </ul>
     </li>
 </ul>
