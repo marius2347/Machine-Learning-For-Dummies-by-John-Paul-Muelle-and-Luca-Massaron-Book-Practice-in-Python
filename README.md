@@ -23,6 +23,7 @@
                     <li>Chapter 13: Working with Linear Models the Easy Way</li>
                     <li>Chapter 14: Hitting Complexity with Neural Networks</li>
                     <li>Chapter 15: Going a Step Beyond Using Support Vector Machines</li>
+                    <li>Chapter 16: Resorting to Ensembles of Learners</li>
         </ul>
     </li>
 </ul>
