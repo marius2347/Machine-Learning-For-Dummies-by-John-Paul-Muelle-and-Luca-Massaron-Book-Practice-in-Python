@@ -26,6 +26,11 @@
                     <li>Chapter 16: Resorting to Ensembles of Learners</li>
         </ul>
     </li>
+    <li>Part 5: Applying Learning to Real Problems
+        <ul>
+                <li>Chapter 17: Classifying Images</li>
+        </ul>
+    </li>
 </ul>
 
 
