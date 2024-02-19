@@ -16,6 +16,7 @@
                     <li> Chapter 10: Starting with Simple Learners</li>
         </ul>
     </li>
+    <br>
     <li>Part 4: Learning from Smart and Big Data
         <ul>
                     <li>Chapter 11: Preprocessing Data</li>
@@ -26,6 +27,7 @@
                     <li>Chapter 16: Resorting to Ensembles of Learners</li>
         </ul>
     </li>
+    <br>
     <li>Part 5: Applying Learning to Real Problems
         <ul>
                 <li>Chapter 17: Classifying Images</li>
