@@ -31,6 +31,7 @@
     <li>Part 5: Applying Learning to Real Problems
         <ul>
                 <li>Chapter 17: Classifying Images</li>
+                <li>Chapter 18: Scoring Opinions and Sentiments</li>
         </ul>
     </li>
 </ul>
