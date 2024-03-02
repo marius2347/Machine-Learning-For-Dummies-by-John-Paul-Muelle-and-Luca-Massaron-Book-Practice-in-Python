@@ -32,6 +32,7 @@
         <ul>
                 <li>Chapter 17: Classifying Images</li>
                 <li>Chapter 18: Scoring Opinions and Sentiments</li>
+                <li>Chapter 19: Recommending Products and Movies</li>
         </ul>
     </li>
 </ul>
