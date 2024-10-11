@@ -45,7 +45,7 @@
 <b> Machine Learning: https://bit.ly/machine-learning-certification <b>
 
 <h2>Book</h2>
-<b> Auhtors: John Paul Mueller & Luca Massaron <b>
+<b> Authors: John Paul Mueller & Luca Massaron <b>
 <br>
 <b> Read the book: https://bit.ly/machine-learning-for-dummies <b>
 <br>
