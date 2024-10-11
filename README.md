@@ -1,4 +1,4 @@
-<h1> Machine Learning Book Practice - ML Python Project</h1>
+<h1>Machine Learning For Dummies by John Paul Muelle and Luca Massaron Book Practice in Python</h1>
 <br>
 <h2>Features</h2>
 <ul>
